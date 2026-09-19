@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "FinnySandbox",
+    "name": "Питомец Финни",
     "slug": "FinnySandbox",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,6 +11,8 @@
       "icon": "./assets/expo.icon"
     },
     "android": {
+      "package": "ru.moscow.finny.pet",
+      "permissions": [],
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
